@@ -47,6 +47,7 @@ body {
 .choice_container{
     display: flex;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .mainMenu h1{
